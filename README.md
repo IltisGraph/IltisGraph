@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IltisGraph
-- 👀 I’m interested in photography and gamedesigning (with pygame)
+- 👀 I’m interested in photography and gamedesign with Java (but JS or pygame are great as well)
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
