@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @IltisGraph
 - 👀 I’m interested in photography and gamedesign with Java (but JS or pygame are great as well)
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 IltisGraph/IltisGraph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
